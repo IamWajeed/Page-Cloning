@@ -1,0 +1,99 @@
+.Allin1 {
+    width: 900px; height: 480px;
+    display: grid; background-color: rgb(253, 249, 249); margin: auto;
+}
+
+.Top1 {
+    width: 900px; height: 400px; display: flex;
+}
+
+.Top2 {
+    width: 895px; height: 100px; border: 1px solid rgb(231, 231, 231); margin: px; margin-top: -100px; border-radius: 10px; background-color: white; padding: 5px; box-sizing: border-box;
+} 
+
+.Box {
+    width: 150px; height: 300px; margin: 4px; border: 1px solid rgb(233, 233, 233); background-color: whitesmoke;
+    border-radius: 9px; box-sizing:border-box;
+}
+
+.Box h5 {
+    font: status-bar; font-weight: medium; font-size: 14px; transform: translateY(180px); text-indent: 10px;
+    color: white;
+}
+
+.Box img {
+    border: 4px solid rgb(74, 46, 231); align-content: center;
+    border-radius: 100%;
+    transform: translate(15px, 30px);
+    width: 45px; height: 45px;
+}
+
+.Personal {
+    background-image: url(../Images/M10.jpg);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-color: snow;
+}
+
+.Personal h4 {
+    text-align: center; transform: translateY(130px); color: rgb(197, 195, 195); font: status-bar; font-size: medium;
+}
+
+.Personal img {
+    transform: translate(37px, 152px); border: whitesmoke; width: fit-content; height: 50px;
+}
+
+.NG {
+    background-image: url(../Images/NG.jpg);
+    background-size: cover; 
+}
+
+.Euro {
+    background-image: url(../Images/Goa7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.FineAss {
+    background-image: url(../Images/IMG_20210718_032410.jpg); background-size: cover;
+}
+
+.Design {
+    background-image: url(../Images/c64174c11e4a1b300b3e0dd6b593dfc8.jpg); background-size: cover;
+}
+
+.Random {
+    background-image: url(../Images/background.jpg);
+    background-size: cover;
+}
+
+.input img {
+    width: 35px; height: 32px; border: 2px solid rgb(187, 187, 180);
+    border-radius: 100%;
+}
+
+.input input {
+    width: 1000px; height: 30px; border: 1px; margin-top: 5px; text-indent: 10px;
+    border-radius: 50px; margin-left: 15px; background-color: rgb(240, 240, 240); font: status-bar;
+}
+
+.input {
+    display: flex;
+}
+
+.action img {
+    width: 18px; height: 15px; margin-top: 6px;
+}
+
+.action {
+    display: flex; position: relative;
+    text-indent: 10px; margin-left: 140px;
+}
+
+.action p {
+    transform: translateY(-8px); text-align: center; size: 2px; font: status-bar;
+}
+
+.ReactIcon {
+    display: flex;
+} 
